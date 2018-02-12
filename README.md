@@ -8,11 +8,11 @@ HOW TO COMPILE
 
 ###1. Download source code###
 
-  <code>git clone https://github.com/qus1/kernel-flyme6v5-0.git</code>
+  <code>git clone https://github.com/qus1/kernel-aospv5-0.git</code>
 
 ###2. Compiling###
 
-  <code>make ARCH=arm64 gr6735_65c_l1_defconfig</code>
+  <code>make ARCH=arm64 ginr6735_65c_l1_defconfig</code>
   
   <code>make ARCH=arm64 CROSS_COMPILE=aarch64-linux-android- -j8</code>
 
